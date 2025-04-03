@@ -15,7 +15,7 @@ My journey in Philosophy has led me to develop a passion for solving complex pro
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| A simple TCPDump Guide for SOC Analysts          | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management          | <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,6 +56,7 @@ My journey in Philosophy has led me to develop a passion for solving complex pro
 </div>
 
 ## Projects
+- <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a>
 - Cyber Threat Intelligence
 - Vulnerability Management
 - Detection Lab
