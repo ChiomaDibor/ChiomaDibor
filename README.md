@@ -6,7 +6,7 @@ I'm a Cybersecurity Analyst with a unique background in philosophy, blending cri
 
 ## Objective
 
-My journey passion lies in solving complex problems. I am eager to leverage my unique perspective and grow my expertise in safeguarding digital assets and mitigating emerging threats as a SOC Anayst.
+Driven by a passion for solving complex problems, I specialize in cybersecurity with a focus on Security Operations Center (SOC). My goal is to proactively defend organizations by identifying, mitigating, and managing cyber risks to ensure security and compliance.
 
 ## Skills
 
