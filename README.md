@@ -28,10 +28,10 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
 </div>
 
-### Endpoint
+### Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-4CAF50?&style=for-the-badge&logo=autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
 </div>
 
 ### SIEM
