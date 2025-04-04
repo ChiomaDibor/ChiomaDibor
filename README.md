@@ -1,22 +1,20 @@
 # Hello, I'm Chioma
 <a href="https://www.linkedin.com/in/chiomadibor"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a Cybersecurity Analyst with a unique background in philosophy, blending critical thinking with technical expertise to protect and defend against cyber threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in Philosophy has led me to develop a passion for solving complex problems. I have an interest in cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey passion lies in solving complex problems. I am eager to leverage my unique perspective and grow my expertise in safeguarding digital assets and mitigating emerging threats as a SOC Anayst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management          | <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Cyber Threat Intelligence                     |  |
+| Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -28,7 +26,7 @@ My journey in Philosophy has led me to develop a passion for solving complex pro
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
