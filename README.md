@@ -24,21 +24,27 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
 </div>
 
 ### Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-4CAF50?&style=for-the-badge&logo=autopsy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-4CAF50?&style=for-the-badge&logo=autopsy&logoColor=white" />
+<img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
+### Vulnerability Scanning
+</div>
+<img src="https://img.shields.io/badge/-Nessus-008000?&style=for-the-badge&logo=Tenable&logoColor=white" />
+
+
 
 ## Certifications
 <div>
