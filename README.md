@@ -40,6 +40,12 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Threat Inteligence
+<div>
+<img src="https://img.shields.io/badge/-YARA-FF4500?&style=for-the-badge&logo=yara&logoColor=white" />
+<img src="https://img.shields.io/badge/-MISP-FFD700?&style=for-the-badge&logo=MISP&logoColor=white" />
+</div>
+
 ### Vulnerability Scanning
 </div>
 <img src="https://img.shields.io/badge/-Nessus-008000?&style=for-the-badge&logo=Tenable&logoColor=white" />
