@@ -14,9 +14,9 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 |-----------------------------------------------|-----------------------------------------------|
 | Network Traffic Analysis                      | <a href="https://github.com/ChiomaDibor/tcp-ip">TCP/IP</a>, <a href="https://github.com/ChiomaDibor/wireshark">Wireshark</a> |
 | Windows Endpoint Analysis                     | <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a> |
-| Memory Forensics                              | <a href="https://google.com">Detection Lab</a> |
-| Cyber Threat Intelligence                     | <a href="https://google.com">Malware Investigation and Analysis for Cyber Threat Intelligence</a> |
-| Vulnerability Management                      | <a href="https://github.com/ChiomaDibor/wireshark">Automated Patch Management </a>, <a href="https://github.com/ChiomaDibor/wireshark">Ansible |  
+| Memory Forensics                              | <a href="https://github.com/ChiomaDibor/ansible">Detection Lab</a> |
+| Cyber Threat Intelligence                     | <a href="https://github.com/ChiomaDibor/ansible">Malware Investigation and Analysis for Cyber Threat Intelligence</a> |
+| Vulnerability Management                      | <a href="https://github.com/ChiomaDibor/automated Patch Management">Automated Patch Management </a>, <a href="https://github.com/ChiomaDibor/ansible">Ansible |  
 | Endpoint Detection and Response               |            |
 | Incident Response Planning and Execution      | SOC Automation Lab                             |
 | Case Management with TheHive                  | SOC Automation Lab                             |
