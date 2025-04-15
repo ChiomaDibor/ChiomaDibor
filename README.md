@@ -14,7 +14,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 |-----------------------------------------------|-----------------------------------------------|
 | Network Traffic Analysis                      | <a href="https://github.com/ChiomaDibor/tcp-ip">TCP/IP</a>, <a href="https://github.com/ChiomaDibor/wireshark">Wireshark</a> |
 | Windows Endpoint Analysis                     | <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a> |
-| Memory Forensics                              | <a href="https://github.com/ChiomaDibor/ansible">Detection Lab</a> |
+| Memory Forensics                              | <a href="https://github.com/ChiomaDibor/Memory-Forensics-Analysis-of-a-Compromised-Windows-Machine-Using-Volatility">Memory Analysis of a compromised windows machine using volatility</a> |
 | Cyber Threat Intelligence                     | <a href="https://github.com/ChiomaDibor/ansible">Malware Investigation and Analysis for Cyber Threat Intelligence</a> |
 | Vulnerability Management                      | <a href="https://github.com/ChiomaDibor/automated Patch Management">Automated Patch Management </a>, <a href="https://github.com/ChiomaDibor/ansible">Ansible |  
 | Endpoint Detection and Response               |            |
@@ -32,6 +32,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 
 ### Forensics
 <div>
+<img src="https://img.shields.io/badge/-Volatility-4B0082?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Autopsy-4CAF50?&style=for-the-badge&logo=autopsy&logoColor=white" />
 <img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
 </div>
@@ -67,6 +68,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 </div>
 
 ## Projects
+- <a href="https://github.com/ChiomaDibor/Memory-Forensics-Analysis-of-a-Compromised-Windows-Machine-Using-Volatility">Memory Analysis of a compromised windows machine using volatility</a>
 - <a href="https://github.com/ChiomaDibor/TCP-IP">TCP/IP</a>
 - <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a>
 - Cyber Threat Intelligence
