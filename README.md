@@ -67,6 +67,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 </div>
 
 ## Projects
+- <a href="https://github.com/ChiomaDibor/TCP-IP">TCP/IP</a>
 - <a href="https://github.com/ChiomaDibor/Vulnerability-Management/tree/main">Vulnerability Management</a>
 - Cyber Threat Intelligence
 - Vulnerability Management
