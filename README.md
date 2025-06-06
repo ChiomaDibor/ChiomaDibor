@@ -15,7 +15,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 | Network Traffic Analysis                      | <a href="https://github.com/ChiomaDibor/tcp-ip">TCP/IP</a>, <a href="https://github.com/ChiomaDibor/wireshark">Wireshark</a> |
 | Memory Forensics                              | <a href="https://github.com/ChiomaDibor/Memory-Forensics-Analysis-of-a-Compromised-Windows-Machine-Using-Volatility">Memory Analysis of a compromised windows machine using volatility</a> |
 | Cyber Threat Intelligence                     | <a href="https://github.com/ChiomaDibor/CTI">Malware Investigation and Analysis for Cyber Threat Intelligence</a> |
-| Vulnerability Management                      | <a href="https://github.com/ChiomaDibor/automated Patch Management">Automated Patch Management for SMEs </a>, <a href="https://github.com/ChiomaDibor/ansible">Securing Web Applications via Vulnerability Assessments and Automated Patch Management |  
+| Vulnerability Management                      | <a href="https://github.com/ChiomaDibor/automated Patch Management">Automated Patch Management for SMEs </a>, <a href="https://github.com/ChiomaDibor/Vulnerability-Management-of-a-Web-Server-Using-Nessus-and-Patch-Management-with-Ansible">Vulnerability Management of a Web Server using Nessus and Patch Management with Ansible</a> |  
 | Endpoint Detection and Response               |            |
 | Incident Response Planning and Execution      |                             |
 | Case Management with TheHive                  |                             |
@@ -67,6 +67,7 @@ Driven by a passion for solving complex problems, I specialize in cybersecurity 
 </div>
 
 ## Projects
+- <a href="https://github.com/ChiomaDibor/Vulnerability-Management-of-a-Web-Server-Using-Nessus-and-Patch-Management-with-Ansible">Vulnerability Management of a Web Server using Nessus and Patch Management with Ansible</a>
 - <a href="https://github.com/ChiomaDibor/Memory-Forensics-Analysis-of-a-Compromised-Windows-Machine-Using-Volatility">Memory Analysis of a compromised windows machine using volatility</a>
 - <a href="https://github.com/ChiomaDibor/TCP-IP">TCP/IP</a>
 
